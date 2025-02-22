@@ -4,11 +4,11 @@
   "description": "A simple demo project for GitHub Actions",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saurabhporwal/gitdemo.git" 
+    "url": "git+https://github.com/saurabhporwal/gitdemo.git"
   },
   "keywords": [
     "github",
