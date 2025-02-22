@@ -1,0 +1,26 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "A simple demo project for GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest" // Change this to your testing command if you're using a different framework
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhporwal/gitdemo.git" // Update with your repository URL
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "demo"
+  ],
+  "author": "Saurabh Porwal",
+  "license": "ISC",
+  "dependencies": {
+    // Add any necessary runtime dependencies here
+  },
+  "devDependencies": {
+    "jest": "^29.0.0" // Example development dependency, adjust version as needed
+  }
+}
